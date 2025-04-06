@@ -4,7 +4,15 @@ Aplicação web desenvolvida com **React.js** que consome a API pública **REST 
 
 ---
 
+## 🔗 Acesse o site
+
+👉 [Clique aqui para acessar o app online](https://atlas-app-beta.vercel.app/)
+
+---
+
 ## 📸 Preview
+
+![preview](https://cdn.discordapp.com/attachments/1348395981947011112/1358568060914499746/image.png?ex=67f4509a&is=67f2ff1a&hm=e852e574b3ef97515f98ddacaa0d75d039f81b3a91402342f467fa19a5f3fe11&)
 
 
 
