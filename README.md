@@ -41,5 +41,20 @@ Aplicação web desenvolvida com **React.js** que consome a API pública **REST 
 
 ## 📁 Estrutura de pastas
 
-rest-countries-app/ ├── public/ │ ├── index.html │ └── favicon-16x16.png ├── src/ │ ├── components/ │ │ └── CountryCard.js │ ├── services/ │ │ └── api.js │ ├── App.js │ ├── App.css │ ├── index.js │ └── index.css ├── package.json └── README.md
+atlas-app/
+├── public/
+│   ├── index.html
+│   └── favicon-16x16.png
+├── src/
+│   ├── components/
+│   │   └── CountryCard.js
+│   ├── services/
+│   │   └── api.js
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+├── package.json
+└── README.md
+
 ---
