@@ -1,4 +1,4 @@
-# 🌍 Atlas app
+# 🌍 Atlas App
 
 Aplicação web desenvolvida com **React.js** que consome a API pública **REST Countries** e exibe informações de países específicos (como EUA, Rússia, Reino Unido, Espanha e Brasil). A interface é estilizada, componentizada e utiliza Axios para requisições HTTP.
 
@@ -13,8 +13,6 @@ Aplicação web desenvolvida com **React.js** que consome a API pública **REST 
 ## 📸 Preview
 
 ![preview](https://cdn.discordapp.com/attachments/1348395981947011112/1358568060914499746/image.png?ex=67f4509a&is=67f2ff1a&hm=e852e574b3ef97515f98ddacaa0d75d039f81b3a91402342f467fa19a5f3fe11&)
-
-
 
 ---
 
@@ -41,6 +39,7 @@ Aplicação web desenvolvida com **React.js** que consome a API pública **REST 
 
 ## 📁 Estrutura de pastas
 
+```bash
 atlas-app/
 ├── public/
 │   ├── index.html
@@ -56,5 +55,3 @@ atlas-app/
 │   └── index.css
 ├── package.json
 └── README.md
-
----
